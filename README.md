@@ -50,6 +50,8 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - More or Less: Behind the Stats
 - Mystery Show [on hiatus]
 - Natch Beaut
+- NPR's battle tactics for your sexist workplace
+- NPR's hidden brain
 - The New Yorker: Politics and More
 - No, You Go
 - NPR Politics Podcast
